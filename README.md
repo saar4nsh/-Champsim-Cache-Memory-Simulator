@@ -20,4 +20,5 @@ The proposed remapping strategy significantly reduces conflict misses, resulting
 For any queries or contributions, please contact:
 
 Name: Saaransh Sharma
+
 GitHub: saar4nsh
