@@ -16,7 +16,7 @@ By remapping addresses from hot sets to cold sets, we aim to balance the load ac
 # Results
 The proposed remapping strategy significantly reduces conflict misses, resulting in improved hit rates, lower AMAT, and increased IPC. Detailed performance metrics can be found in the results directory.
 
-#Contact
+# Contact
 For any queries or contributions, please contact:
 
 Name: Saaransh Sharma
